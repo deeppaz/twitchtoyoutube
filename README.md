@@ -1,4 +1,4 @@
-# <strong> TwitchtoYoutube </strong>
+# <strong> Twitch to Youtube </strong>
 
 This project is try to download most viewed twitch clips in 24 hours or 1 week and then try to publish to Youtube channel.
 
